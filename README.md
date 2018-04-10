@@ -1,1 +1,1 @@
-"# spark-scala-projects" 
+Some projects in Spark and Scala
