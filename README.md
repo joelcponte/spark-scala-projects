@@ -1,1 +1,1 @@
-Some projects in Spark and Scala
+Some projects in Spark and Scala.
